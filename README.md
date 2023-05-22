@@ -47,7 +47,7 @@ To run the code, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/bryce-ka/Mirna-Cancer-Classification.git
 ```
 
 2. Install the required dependencies:
@@ -59,7 +59,7 @@ pip install pandas matplotlib scikit-learn
 3. Navigate to the repository directory:
 
 ```
-cd repo-name
+cd Mirna-Cancer-Classification
 ```
 
 4. Run
